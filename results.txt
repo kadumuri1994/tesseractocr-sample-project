@@ -1,0 +1,11 @@
+In this document some extra packages and parameters were added. There
+is a encoding package an a pagesize and fontsize parameters.
+This line will start a second Paragraph. And I can break
+the lines
+and continue in a new line.
+
+This is a simple paragraph at the beginning of the document. A
+brief introduction about the main subject:
+
+Abstract
+
